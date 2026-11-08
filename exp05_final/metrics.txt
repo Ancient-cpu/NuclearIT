@@ -1,0 +1,5 @@
+OOF MSE final (raw SI): 4173551.09
+blend weights: {'lgbm_fp': np.float64(0.4233), 'lgbm_emb': np.float64(0.3267), 'twostage': np.float64(0.125), 'catboost': np.float64(0.125)}
+alpha: 1.1114 (used=True)
+two-stage threshold: 0.85
+train size (augmented): 379 (official 320 + external 59)

@@ -1,0 +1,5 @@
+OOF MSE final (official train): 165596.57
+blend weights: {np.str_('lgbm_fp'): np.float64(0.25), np.str_('lgbm_emb'): np.float64(0.25), np.str_('twostage'): np.float64(0.25), np.str_('catboost'): np.float64(0.25)}
+alpha=1.60 zero_clip=1.5 cap=5000.0 two_stage_thr=0.80
+exact match: train=29, external_stereo=110 (EXT_CAP=5000), weak_rule=50 (const=1.071)
+train size: 599 (official 320), seeds=[42, 1337, 2025]

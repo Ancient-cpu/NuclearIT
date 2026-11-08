@@ -1,0 +1,5 @@
+isomeric train match: 29
+stereo train match: 24
+external match: 15, external stereo: 20, external capped to 5000.0: 2
+weak rule: 18
+postproc: alpha=1.6 zclip=1.0 cap=5000.0

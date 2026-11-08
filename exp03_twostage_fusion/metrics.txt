@@ -1,0 +1,3 @@
+OOF MSE (raw SI): 4271717.13
+threshold: 0.90
+smearing: 6.561 (used=False)
